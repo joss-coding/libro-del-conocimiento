@@ -8,4 +8,6 @@ function App() {
       <Button text="Saludar" onClick={handleClick} />
     </div>
   );
-}
+};
+
+export default App;
